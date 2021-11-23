@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CaptureTheFlag",
+			"Path": "/Users/moechama/Documents/GitHub/silver-robot/Source/CaptureTheFlag.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CaptureTheFlagEditor",
+			"Path": "/Users/moechama/Documents/GitHub/silver-robot/Source/CaptureTheFlagEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

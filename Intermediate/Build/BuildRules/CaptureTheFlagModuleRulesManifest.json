@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/moechama/Documents/GitHub/silver-robot/Source/CaptureTheFlag/CaptureTheFlag.Build.cs",
+		"/Users/moechama/Documents/GitHub/silver-robot/Source/CaptureTheFlag.Target.cs",
+		"/Users/moechama/Documents/GitHub/silver-robot/Source/CaptureTheFlagEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
