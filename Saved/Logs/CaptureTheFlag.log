@@ -6936,3 +6936,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.05-05.39.06:206][942]LogContentValidation: Display: Validating Blueprint /Game/PowerUp/Damage_PowerUp.Damage_PowerUp
 [2021.12.05-05.39.06:206][942]LogContentValidation: Display: Validating Blueprint /Game/PowerUp/Health_PowerUp.Health_PowerUp
 [2021.12.05-05.39.06:206][942]LogContentValidation: Display: Validating Blueprint /Game/PowerUp/RespawnPowerUp.RespawnPowerUp
+[2021.12.05-05.39.23:496][ 25]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.
